@@ -1,3 +1,5 @@
-import 'package:flutter/material.dart';
+import 'package:flutter_application_1/game_core/main_loop.dart';
 
-void main() {}
+void main() {
+  startLoop();
+}
